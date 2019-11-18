@@ -2,6 +2,6 @@
 Lab02 Gesture Phase Segmentation Clustering in class CS313.K11.KHCL of University of Information Technology
 
 <h3>Thành viên:</h3><br>
-- Nguyễn Ôn Ngọc Bảo
-- TRần Việt Hùng
-- Nguyễn Tấn Phát
+- Nguyễn Ôn Ngọc Bảo<br>
+- Trần Việt Hùng<br>
+- Nguyễn Tấn Phát<br>
